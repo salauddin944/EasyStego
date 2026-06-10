@@ -16,7 +16,6 @@ A drag-and-drop image steganography desktop application built in Java that lets 
 - [Results](#results)
 - [Limitations](#limitations)
 - [Future Work](#future-work)
-- [Academic Context](#academic-context)
 
 ---
 
@@ -181,17 +180,6 @@ Tested on PNG images ranging from **500×500** to **3000×2000** pixels:
 
 ---
 
-## Academic Context
-
-Developed as a course project for **CSE 2110 — Object-Oriented Programming II Lab**
-Department of Computer Science and Engineering
-Northern University of Business and Technology Khulna
-
-**Author:** Md. Salauddin (ID: 11240321728)
-**Submitted to:** Shovon Mandal, Lecturer, Dept. of CSE
-**Date:** 31 March 2026
-
----
 
 ## References
 
