@@ -170,15 +170,6 @@ Tested on PNG images ranging from **500×500** to **3000×2000** pixels:
 
 ---
 
-## Future Work
-
-- [ ] Add **AES encryption** to secure messages before embedding
-- [ ] Support embedding **binary files** (images, PDFs) in addition to plain text
-- [ ] Implement **password protection** to restrict message extraction to authorized users
-- [ ] Explore **2-bit or 3-bit LSB** per channel for higher capacity with an optional quality trade-off setting
-
----
-
 ## License
 
 This project is intended for academic and educational use.
