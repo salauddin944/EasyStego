@@ -15,7 +15,6 @@ A drag-and-drop image steganography desktop application built in Java that lets 
 - [Tech Stack](#tech-stack)
 - [Results](#results)
 - [Limitations](#limitations)
-- [Future Work](#future-work)
 
 ---
 
@@ -177,14 +176,6 @@ Tested on PNG images ranging from **500×500** to **3000×2000** pixels:
 - [ ] Support embedding **binary files** (images, PDFs) in addition to plain text
 - [ ] Implement **password protection** to restrict message extraction to authorized users
 - [ ] Explore **2-bit or 3-bit LSB** per channel for higher capacity with an optional quality trade-off setting
-
----
-
-
-## References
-
-- Google. (2024). *Gemini* [Large language model]. Google DeepMind. https://gemini.google.com
-- Moonshot AI. (2024). *Kimi* [Large language model]. Moonshot AI. https://kimi.moonshot.cn
 
 ---
 
