@@ -1,0 +1,21 @@
+# Compiled Java class files
+*.class
+
+# JAR files
+*.jar
+
+# VS Code settings
+.vscode/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Output images (generated at runtime)
+secret_image.png
